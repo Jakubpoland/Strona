@@ -16,3 +16,23 @@ footer {
     width:100%;
     
 }
+#zegar{
+    position:absolute;
+    right:1%;
+    top:2%;
+}  
+#left{
+    position: absolute;
+    top:50%;
+    left: 0px;
+    width:150px;
+}
+#banner{
+    text-align: center;
+    width: 40%;
+    padding: auto;
+    margin:auto;
+    right: auto;
+    left:auto;
+    position: relative;
+}
